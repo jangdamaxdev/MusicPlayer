@@ -11,29 +11,29 @@ const songs = [
         id: 1,
         title: 'Amalgam',
         artist: 'Rockot',
-        src: '/songs/Amalgam_Rockot.mp3',
-        img: 'songs/Amalgam.webp'
+        src: './songs/Amalgam_Rockot.mp3',
+        img: './songs/Amalgam.webp'
     },
     {   
         id: 2,
         title: 'Night Detective',
         artist: 'Amaksi',
-        src: '/songs/NightDetective_Amaksi.mp3',
-        img: 'songs/NightDetective.webp'
+        src: './songs/NightDetective_Amaksi.mp3',
+        img: './songs/NightDetective.webp'
     },
     {   
         id: 3,
         title: 'Nightfall',
         artist: 'SoulProMusic',
-        src: '/songs/Nightfall.mp3',
-        img: 'songs/Nightfall_SoulProMusic.jpg'
+        src: './songs/Nightfall.mp3',
+        img: './songs/Nightfall_SoulProMusic.jpg'
     },
     {   
         id: 4,
         title: 'Bounce On it',
         artist: 'AlexGrohl',
-        src: '/songs/BounceOnit_AlexGrohl.mp3',
-        img: 'songs/BounceOnit.webp'
+        src: './songs/BounceOnit_AlexGrohl.mp3',
+        img: './songs/BounceOnit.webp'
     }
 
 ]
