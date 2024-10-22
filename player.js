@@ -4,8 +4,8 @@ const songs = [
         id: 0,
         title: 'Flow',
         artist: 'Loksii',
-        src: '/songs/Flow_Loksii.mp3',
-        img: 'songs/Flow.webp'
+        src: './songs/Flow_Loksii.mp3',
+        img: './songs/Flow.webp'
     },
     {   
         id: 1,
